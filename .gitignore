@@ -1,0 +1,12 @@
+.idea/
+venv/
+all_lines.jpg
+test.py
+video_splitter.py
+yolo_inference.py
+YOLO8TENNISANALYSIS.rar
+yolov8s.pt
+yolov8x.pt
+training/tennis-ball-detection-6/
+training/yolov5l6u.pt
+models/
